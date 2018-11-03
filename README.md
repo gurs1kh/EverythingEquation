@@ -6,6 +6,9 @@ Input the k-value into the text area and it will be graphed on the grid.
 
 You can also draw on the grid and get the corresponding k-value (only tested in Chrome)
 
+Check it out:
+
+https://gurs1kh.github.io/everything-equation/
 
 Refer to:
 
